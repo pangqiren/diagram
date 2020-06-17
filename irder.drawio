@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T13:07:21.291Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="D1VSPgauQiHaI-2F4nIp" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-17T13:08:28.234Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="P3Po8ZnOZxlQuyVj23M2" version="13.2.4" type="github">
   <diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">
     <mxGraphModel dx="1422" dy="712" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,10 +253,10 @@
         <mxCell id="WOGHGQuo0FZu75Chtuqg-40" value="&amp;nbsp; &amp;nbsp;验证订单合法性&lt;br&gt;&amp;nbsp; 1. 检查初见订单CJ001是否存在于订单库中&lt;br&gt;&amp;nbsp; 2. 检查初见订单CJ001是否已经支付成功&lt;br&gt;&amp;nbsp; 3. 验证价格是否匹配&lt;br&gt;&amp;nbsp; 4. 验证内购产品ID CP001是否匹配&lt;br&gt;&amp;nbsp; 5. 验证票据是否合法(本地验签或者服务端验签)&lt;br&gt;&amp;nbsp; 6. 验证渠道订单ID是否已经支付成功过" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="238" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-41" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="WOGHGQuo0FZu75Chtuqg-11">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-41" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="798" y="440" as="sourcePoint" />
-            <mxPoint x="966" y="390" as="targetPoint" />
+            <mxPoint x="798" y="425" as="sourcePoint" />
+            <mxPoint x="972" y="352.77751196172244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-42" value="9. 更新订单状态和渠道订单信息&lt;br&gt;(AP001,OK|FAIL)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WOGHGQuo0FZu75Chtuqg-41">
@@ -264,7 +264,7 @@
             <mxPoint y="17.71" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-43" value="&lt;font color=&quot;#0000ff&quot;&gt;注意：&lt;br&gt;&lt;br&gt;1.CJ001为初见订单ID&lt;br&gt;2. AP001为苹果订单ID&lt;br&gt;3. GG001为谷歌订单ID&lt;br&gt;4. WX001为微信订单ID&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-43" value="&lt;font color=&quot;#0000ff&quot;&gt;注意：&lt;br&gt;&lt;br&gt;1. CJ001为初见订单ID&lt;br&gt;2. AP001为苹果订单ID&lt;br&gt;3. GG001为谷歌订单ID&lt;br&gt;4. WX001为微信订单ID&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="938" y="616" width="182" height="182" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-44" value="" style="endArrow=classic;html=1;entryX=0.313;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.268;exitY=0.947;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WOGHGQuo0FZu75Chtuqg-6" target="WOGHGQuo0FZu75Chtuqg-9">
@@ -287,8 +287,11 @@
         <mxCell id="WOGHGQuo0FZu75Chtuqg-47" value="11. 返回发货结果&lt;br&gt;(OK|FAIL)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="742" y="616" width="112" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-48" value="11. 返回发货结果&lt;br&gt;(OK|FAIL)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="727" y="726" width="112" height="42" as="geometry" />
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-50" value="" style="endArrow=classic;html=1;exitX=1.004;exitY=0.852;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WOGHGQuo0FZu75Chtuqg-40" target="WOGHGQuo0FZu75Chtuqg-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="868" y="518" as="sourcePoint" />
+            <mxPoint x="918" y="468" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
