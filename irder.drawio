@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T13:16:44.246Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="YFo5kHbTmtnqceSpOQox" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-17T13:17:57.773Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="nNmTLeVardE5vrzT-E5D" version="13.2.4" type="github">
   <diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">
     <mxGraphModel dx="1422" dy="712" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,6 +297,9 @@
           <mxGeometry x="-0.1254" y="-2" relative="1" as="geometry">
             <mxPoint x="19" y="5.55" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-54" value="&lt;b style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;2. 支付发货流程&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="31.5" y="252" width="120" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
