@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T12:46:55.988Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="FUZ6FW4cFrlbxxlmVLPX" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-17T12:48:37.613Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="mRCAhUUcuhaN_wgT1dUQ" version="13.2.4" type="github">
   <diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">
     <mxGraphModel dx="1422" dy="712" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-13" value="1.&amp;nbsp; 下单 (P101,CP101,6,CNY,60,user001,role001)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-13" value="1.&amp;nbsp; 下单 (P001,CP001,6,CNY,60,user001,role001)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="294" width="280" height="28" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WOGHGQuo0FZu75Chtuqg-31">
@@ -167,7 +167,7 @@
             <mxPoint x="950" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-15" value="&lt;div&gt;&lt;span&gt;2. 保存订单&lt;/span&gt;&lt;/div&gt;&amp;nbsp;(CJ001,P101,CP101,6,CNY,60,user001,role001)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-15" value="&lt;div&gt;&lt;span&gt;2. 保存订单&lt;/span&gt;&lt;/div&gt;&amp;nbsp;(CJ001,P001,CP001,6,CNY,60,user001,role001)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="269" width="280" height="42" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-19" value="" style="endArrow=classic;html=1;exitX=-0.022;exitY=0.286;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="WOGHGQuo0FZu75Chtuqg-6" target="WOGHGQuo0FZu75Chtuqg-3">
@@ -187,7 +187,7 @@
             <mxPoint x="140" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-22" value="4. 拉起面板支付&lt;br&gt;(CP101,6,CNY)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WOGHGQuo0FZu75Chtuqg-21">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-22" value="4. 拉起面板支付&lt;br&gt;(CP001,6,CNY)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WOGHGQuo0FZu75Chtuqg-21">
           <mxGeometry x="-0.2381" y="3" relative="1" as="geometry">
             <mxPoint x="-51.5" y="3" as="offset" />
           </mxGeometry>
@@ -231,7 +231,7 @@
             <mxPoint x="442" y="546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-30" value="8.&amp;nbsp; SDK回调（适用于海外Apple,Google,HW）&lt;br&gt;苹果票据（AP001,CP101）&lt;br&gt;谷歌票据(GG001,CP001,CJ001)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WOGHGQuo0FZu75Chtuqg-29">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-30" value="8.&amp;nbsp; SDK回调（适用于海外Apple,Google,HW）&lt;br&gt;苹果票据（AP001,CP001）&lt;br&gt;谷歌票据(GG001,CP001,CJ001)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WOGHGQuo0FZu75Chtuqg-29">
           <mxGeometry x="-0.1208" y="3" relative="1" as="geometry">
             <mxPoint x="23.16" y="10.65" as="offset" />
           </mxGeometry>
@@ -245,7 +245,7 @@
             <mxPoint x="442" y="434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-37" value="8.&amp;nbsp; &amp;nbsp;服务器回调（适用于国内WX,ZFB,OPPO）&lt;br&gt;票据(WX001,CP001,CJ001)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-37" value="8.&amp;nbsp; &amp;nbsp;服务器回调（适用于国内WX,ZFB,OPPO）&lt;br&gt;票据(WX001,6,CJ001)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="391.99885902102983" y="531.9965588704536" as="geometry">
             <mxPoint x="11" y="101" as="offset" />
           </mxGeometry>
