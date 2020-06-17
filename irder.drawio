@@ -1,1 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T11:55:38.750Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="eW1U8InFRoUEfFP2KbF8" version="13.2.4" type="github"><diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">7Zxbj6M2FIB/jaW+bMX98hgYZlup3a46VavOmzd4AhLBKfFskv76HoMJiUwGJh2TSFhCIzhcAv58iL8DE2TH6/3nCm+yX2lKCmQZ6R7ZD8iyTMeyEJ+M9NBEfFMEVlWeio26wFP+L2n3FNHXPCXbsw0ZpQXLN+fBJS1LsmRnMVxVdHe+2Qstzj91g1dECjwtcSFH/8pTljXRwPK7+E8kX2XtJ5te2KxZ43ZjowlsM5zS3UnITpAdV5SyZm69j0nBG69tl2a/xwtrjydWkZKN2WH5+Z/ftv5zdnh+Xu6+/BkvytWnT6YrcHzHxau4ZHG67NC2AZz5hs8y/I2HooytC1g0YXaX5Yw8bfCSr99BF4DYluGKCZIGLAMahvOSVGKfJS0KvNnm9cGaLbK8SH/BB/rK2o9plyJxeqRiZH/xys1je0JHJHRNWHWATcQOruhLogs6Asiu4+mFQRPLTlk6IohFH1odj9w1M8yIln5Xq9vjWx2uk+W4+B16Ny5XYwDIDZxWdPMHrlaEicCG5iUjVfIdmnArYi95UcS0oJxTSUv+QYxuxMqCvLT7fqOM0bVYqER7HQ9at5UbwQTNHBs/usiFq4lh2eyWYeKbVyym5ZZV0Dv4MQjesh3Zjqb+Vo+WO8MQbttVRtuRaScOihZo4aPERaGNAvPnhw/tAfXdEHc9gEJbvhT1/SfL05SUHwH8/1CyBylNDMntgeSiwEOBi5IARQ5aPGhsF7Dtz5GdUDQNY1KMXn+uRSgCaB5aGCiKf6jJwmSj5BGWURBqih1FsxejNylGvzcbQ8AISRiiMKzTsuYZ1NkIfyFXRaLWkSiA/ESJj+CbB/jz3RMURJp0R9o2nB7SzqSkg37S9a23vcty0hCBIQWw56QfNcWOomPI+RpOCzEcMcKpZyBdH3hOQjwyNMQTSTEsGeKUIyBw11EQ9f30MkTPkN1y2mGsZ8gQtVmqNcvDOdQh0bRCZfDlDP5qGuasMtQz+iENZKRCKHKFLdZUrvNGhZTkipynCV3hhAoRyWW0+MvfGtIVOqcQklxG8+Y1zh9gNFbWFCKSS2Rwzl1FzEWLBIXzqmsOQBsrZ8qgWe1j0zM583hJemGLYhdMcuFEQ3y3nCnMvJ6qppazSeTMk78Z++VM2TNfTy50ggZ8bAe4+wz1+yENZaQ6KHLhMtZUrpQzZZR8uahlz2xQ+Tai8XamjpFce5qdnb0NabydqYMkjyJtQ2fSNXqmjpFcieKMZu5nb1Mb7WeqqFlmzxt92s/eBXG0n6lLvZ4X9bSfTeJnoZzAE/uZL1cuv1oze0zTJMAd+Zkv1ypjoDKvIcslKvfjZ3Jda14PzwYI3YOeydWnuenZAKR70DO5GqW/f+5KzoKe16tgmB8E/M1G/l4yjPQf6/cbHf5eOZe2mHubhnhPrtb3/zgSsnm72gDEm7uaZX5sUmk1u6hmpjXyHyYVwpY1ACxgVk9pRIe/HzezTHnUPzs3u0jlXtzMMuWB/6zcbIjQ7d0MTkFOpHm52RCk27vZ8Wcc5upmQ4hu7mbHS9FudjXE27uZZfVA1G72HogK3QwWux+sqded/OyPnfwH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-17T11:59:28.436Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="W4GdejI5LfzXPrSU6FFt" version="13.2.4" type="github">
+  <diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">
+    <mxGraphModel dx="1422" dy="712" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--152" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="55" y="40" width="698" height="157" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--153" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cGqOs7ZhyZZcwNVCAng--152" vertex="1">
+          <mxGeometry width="698" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--154" value="产品ID&lt;br&gt;（发货参照）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
+          <mxGeometry width="99" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--155" value="内购产品ID （支付使用）&lt;br&gt;(苹果，谷歌，华为海外)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
+          <mxGeometry x="99" width="182" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--156" value="价格(元）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
+          <mxGeometry x="281" width="70" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--157" value="国际标准货币类型&lt;br&gt;（CNY,USD,TWD等）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
+          <mxGeometry x="351" width="126" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--158" value="商品数量" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
+          <mxGeometry x="477" width="56" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--159" value="产品名称" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
+          <mxGeometry x="533" width="84" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--211" value="产品类型" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
+          <mxGeometry x="617" width="81" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--160" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cGqOs7ZhyZZcwNVCAng--152" vertex="1">
+          <mxGeometry y="44" width="698" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--161" value="P101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--160" vertex="1">
+          <mxGeometry width="99" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--162" value="CP101" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--160" vertex="1">
+          <mxGeometry x="99" width="182" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--163" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--160" vertex="1">
+          <mxGeometry x="281" width="70" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--164" value="CNY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--160" vertex="1">
+          <mxGeometry x="351" width="126" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--165" value="60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--160" vertex="1">
+          <mxGeometry x="477" width="56" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--166" value="60元宝" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--160" vertex="1">
+          <mxGeometry x="533" width="84" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--212" value="正常商品" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--160" vertex="1">
+          <mxGeometry x="617" width="81" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--167" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cGqOs7ZhyZZcwNVCAng--152" vertex="1">
+          <mxGeometry y="73" width="698" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--168" value="P102" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--167" vertex="1">
+          <mxGeometry width="99" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--169" value="CP102" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--167" vertex="1">
+          <mxGeometry x="99" width="182" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--170" value="30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--167" vertex="1">
+          <mxGeometry x="281" width="70" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--171" value="CNY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--167" vertex="1">
+          <mxGeometry x="351" width="126" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--172" value="300" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--167" vertex="1">
+          <mxGeometry x="477" width="56" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--173" value="300元宝" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--167" vertex="1">
+          <mxGeometry x="533" width="84" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--213" value="正常商品" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--167" vertex="1">
+          <mxGeometry x="617" width="81" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--174" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cGqOs7ZhyZZcwNVCAng--152" vertex="1">
+          <mxGeometry y="101" width="698" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--175" value="P201" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--174" vertex="1">
+          <mxGeometry width="99" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--176" value="CP200" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--174" vertex="1">
+          <mxGeometry x="99" width="182" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--177" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--174" vertex="1">
+          <mxGeometry x="281" width="70" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--178" value="CNY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--174" vertex="1">
+          <mxGeometry x="351" width="126" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--179" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--174" vertex="1">
+          <mxGeometry x="477" width="56" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--180" value="成长礼包" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--174" vertex="1">
+          <mxGeometry x="533" width="84" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--214" value="礼包商品" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--174" vertex="1">
+          <mxGeometry x="617" width="81" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--215" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cGqOs7ZhyZZcwNVCAng--152" vertex="1">
+          <mxGeometry y="129" width="698" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--216" value="P202" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--215" vertex="1">
+          <mxGeometry width="99" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--217" value="CP200" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--215" vertex="1">
+          <mxGeometry x="99" width="182" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--218" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--215" vertex="1">
+          <mxGeometry x="281" width="70" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--219" value="CNY" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--215" vertex="1">
+          <mxGeometry x="351" width="126" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--220" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--215" vertex="1">
+          <mxGeometry x="477" width="56" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--221" value="成长礼包" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--215" vertex="1">
+          <mxGeometry x="533" width="84" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--222" value="礼包商品" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--215" vertex="1">
+          <mxGeometry x="617" width="81" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
