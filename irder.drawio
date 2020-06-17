@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T12:15:07.175Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="o7z4sm2Rf6Z8gBbao_vC" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-17T12:16:20.458Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="oR0F4zvcZbQYVkFhLDzK" version="13.2.4" type="github">
   <diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">
     <mxGraphModel dx="1422" dy="712" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,8 +167,8 @@
             <mxPoint x="726" y="546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-15" value="2. 保存订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="658" y="532" width="84" height="28" as="geometry" />
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-15" value="&lt;div&gt;&lt;span&gt;2. 保存订单&lt;/span&gt;&lt;/div&gt;&amp;nbsp;(CJ001，P101,CP101,6,CNY,60,user001,role001)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="553" y="546" width="294" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
