@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T02:09:03.645Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="fU_GtaH_apcE04_JL7Af" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-18T02:12:04.357Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="S_TCLEotMs5WGgj6RS4t" version="13.2.4" type="github">
   <diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">
     <mxGraphModel dx="1422" dy="712" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,10 +167,10 @@
         <mxCell id="WOGHGQuo0FZu75Chtuqg-15" value="&lt;div&gt;&lt;span&gt;2. 保存订单&lt;/span&gt;&lt;/div&gt;&amp;nbsp;(CJ001,P001,CP001,6,CNY,60,user001,role001,TBP)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="718" y="269" width="308" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-19" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.282;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WOGHGQuo0FZu75Chtuqg-6">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-19" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.282;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="355" as="sourcePoint" />
-            <mxPoint x="232" y="354.75" as="targetPoint" />
+            <mxPoint x="546" y="347.884" as="sourcePoint" />
+            <mxPoint x="232" y="344.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-20" value="3.返回初见订单 (CJ001)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="WOGHGQuo0FZu75Chtuqg-19">
@@ -233,7 +233,7 @@
             <mxPoint x="36.35" y="-6.079999999999998" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-31" value="生成初见订单(CJ001)" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-31" value="生成初见订单(CJ001)" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#0000FF;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="588" y="311" width="130" height="28" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-36" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.188;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B85450;" edge="1" parent="1" target="WOGHGQuo0FZu75Chtuqg-40">
@@ -247,7 +247,7 @@
             <mxPoint x="11" y="101" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-40" value="&lt;font color=&quot;#ff0000&quot;&gt;&amp;nbsp; &amp;nbsp;验证订单票据合法性&lt;br&gt;&amp;nbsp; 1. 检查初见订单CJ001是否存在于订单库中&lt;br&gt;&amp;nbsp; 2. 检查初见订单CJ001是否已经支付成功&lt;br&gt;&amp;nbsp; 3. 验证票据中的价格是否与订单库中的价格匹配&lt;br&gt;&amp;nbsp; 4. 验证票据中的内购产品ID CP001是否与订单库中的内购产品ID CP001匹配&lt;br&gt;&amp;nbsp; 5. 验证票据是否合法(本地验签或者服务端验签)&lt;br&gt;&amp;nbsp; 6. 验证渠道订单ID是否已经支付成功过&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-40" value="&lt;font color=&quot;#ff0000&quot;&gt;&amp;nbsp; &amp;nbsp;验证订单票据合法性&lt;br&gt;&amp;nbsp; 1. 检查初见订单CJ001是否存在于订单库中&lt;br&gt;&amp;nbsp; 2. 检查初见订单CJ001是否已经支付成功&lt;br&gt;&amp;nbsp; 3. 验证票据中的价格是否与订单库中的价格匹配&lt;br&gt;&amp;nbsp; 4. 验证票据中的内购产品ID CP001是否与订单库中的内购产品ID CP001匹配&lt;br&gt;&amp;nbsp; 5. 验证票据是否合法(本地验签或者服务端验签)&lt;br&gt;&amp;nbsp; 6. 验证渠道订单ID是否已经支付成功过&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#3333FF;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="238" height="182" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-41" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WOGHGQuo0FZu75Chtuqg-11">
