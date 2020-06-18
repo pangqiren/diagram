@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T08:34:51.573Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="AvUnc33hfB0yIKe5Kkvt" version="13.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-18T09:08:33.070Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="A9N0v9hokt6IXzhd_2u4" version="13.2.6" type="github">
   <diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-1" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;1. 产品表（运营提供）&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-1" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;1. 产品表（运营提供）&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="28" y="12" width="127" height="28" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-2" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000ff&quot;&gt;游戏客户端&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -292,7 +292,7 @@
             <mxPoint x="19" y="-12.59" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-54" value="&lt;b style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;2. 支付发货流程&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-54" value="&lt;b style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;2. 支付发货流程&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="28" y="262" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -315,7 +315,7 @@
             <mxPoint x="22.369999999999997" y="-13.87" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-59" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000ff&quot;&gt;游戏服务器&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px ; color: rgb(255 , 0 , 0)&quot;&gt;验证发货单的合法性&lt;br&gt;1. 签名验证&lt;br&gt;2. P001,CP001,6这条记录是否存在于产品配置表中&lt;br&gt;3.去重验证，CJ001这个订单是否已经发货。支付中心会多次通知发货&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;4.根据产品配置表中的商品数量发货&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;align=left;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-59" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000ff&quot;&gt;游戏服务器&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px ; color: rgb(255 , 0 , 0)&quot;&gt;验证发货单的合法性&lt;br&gt;1. 验证签名&lt;br&gt;2. P001,CP001,6这条记录是否存在于产品配置表中&lt;br&gt;3.去重验证，CJ001这个订单是否已经发货。支付中心会多次通知发货&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 12px&quot;&gt;4.根据产品配置表中的商品数量发货&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;align=left;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="532" y="693" width="294" height="203" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-61" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#B85450;entryX=0.131;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="WOGHGQuo0FZu75Chtuqg-40">
