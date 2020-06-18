@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T13:27:38.514Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="T_imbZgGTk1LBmHuxgaZ" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-18T01:28:46.259Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="72yVgXO-pFQWnsIXixDX" version="13.2.4" type="github">
   <diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">
     <mxGraphModel dx="1422" dy="712" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="WOGHGQuo0FZu75Chtuqg-1" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;1. 产品表（运营提供）&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="28" y="12" width="127" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;游戏客户端&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-2" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000ff&quot;&gt;游戏客户端&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="28" y="294" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-3" value="初见SDK" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -16,7 +16,7 @@
         <mxCell id="WOGHGQuo0FZu75Chtuqg-4" value="三方支付SDK" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="112" y="448" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;支付中心&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-6" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000ff&quot;&gt;支付中心&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="546" y="284" width="262" height="262" as="geometry" />
         </mxCell>
         <mxCell id="cGqOs7ZhyZZcwNVCAng--152" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="cGqOs7ZhyZZcwNVCAng--154" value="产品ID&lt;br&gt;（发货参照）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
           <mxGeometry width="99" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="cGqOs7ZhyZZcwNVCAng--155" value="内购产品ID （支付使用）&lt;br&gt;(苹果，谷歌，华为海外)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
+        <mxCell id="cGqOs7ZhyZZcwNVCAng--155" value="内购产品ID （支付使用）&lt;br&gt;(苹果，谷歌，华为海外需要)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
           <mxGeometry x="99" width="182" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cGqOs7ZhyZZcwNVCAng--156" value="价格(元）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--153" vertex="1">
@@ -142,10 +142,10 @@
         <mxCell id="cGqOs7ZhyZZcwNVCAng--222" value="礼包商品" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="cGqOs7ZhyZZcwNVCAng--215" vertex="1">
           <mxGeometry x="631" width="67" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;三方支付服务器&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-8" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000ff&quot;&gt;三方支付服务器&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="28" y="693" width="224" height="224" as="geometry" />
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;游戏服务器&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-9" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000ff&quot;&gt;游戏服务器&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="546" y="693" width="252" height="252" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-11" value="&amp;nbsp; &amp;nbsp; 订单库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;align=left;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -239,14 +239,14 @@
         <mxCell id="WOGHGQuo0FZu75Chtuqg-31" value="生成初见订单(CJ001)" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="588" y="311" width="130" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-36" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.188;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="WOGHGQuo0FZu75Chtuqg-8" target="WOGHGQuo0FZu75Chtuqg-40">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-36" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.188;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="392" y="484" as="sourcePoint" />
-            <mxPoint x="442" y="434" as="targetPoint" />
+            <mxPoint x="252" y="721.1120000000001" as="sourcePoint" />
+            <mxPoint x="560" y="472.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-37" value="8.&amp;nbsp; &amp;nbsp;服务器回调（适用于国内WX,ZFB等）&lt;br&gt;微信票据(WX001,6,CJ001)&lt;br&gt;&amp;nbsp;支付宝票据(ZFB001,6,CJ001)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="391.99885902102983" y="531.9965588704536" as="geometry">
+          <mxGeometry x="391.99885902102983" y="447.99655887045355" as="geometry">
             <mxPoint x="11" y="101" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -282,7 +282,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-47" value="11. 返回发货结果&lt;br&gt;(SHIP_OK|SHIP_FAIL)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="726" y="605" width="140" height="42" as="geometry" />
+          <mxGeometry x="742" y="605" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-50" value="" style="endArrow=classic;html=1;exitX=1.004;exitY=0.852;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WOGHGQuo0FZu75Chtuqg-40" target="WOGHGQuo0FZu75Chtuqg-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -296,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-54" value="&lt;b style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;2. 支付发货流程&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="31.5" y="252" width="120" height="32" as="geometry" />
+          <mxGeometry x="28" y="262" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WOGHGQuo0FZu75Chtuqg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
