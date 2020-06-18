@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T09:39:56.301Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="gnNEMPDikEJmcpCVYmS6" version="13.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-18T09:50:43.916Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="qeViQ8xhaHrriIutoMFx" version="13.2.6" type="github">
   <diagram id="dxd3tHD40WdAk8Pdft18" name="Page-1">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
           <mxGeometry x="550" y="800" as="geometry" />
         </mxCell>
         <mxCell id="ILBT34EYTrfFMH7JFvp2-52" value="6. 返回验证结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="780" width="100" height="20" as="geometry" />
+          <mxGeometry x="638" y="780" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ILBT34EYTrfFMH7JFvp2-53" value="8. 登录游戏服&lt;br&gt;(CJ001,CJToken001)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100" y="800" as="geometry" />
