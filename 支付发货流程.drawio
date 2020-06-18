@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T08:32:28.617Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="BAUyeQGR7Njkq6k9bEnC" version="13.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-18T08:33:45.408Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="8SSlbFyIdCFT_Dot0bpv" version="13.2.6" type="github">
   <diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
             <mxPoint x="140" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WOGHGQuo0FZu75Chtuqg-22" value="4. 拉起面板支付&lt;br&gt;(CP001,6,CNY)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="WOGHGQuo0FZu75Chtuqg-21" vertex="1" connectable="0">
+        <mxCell id="WOGHGQuo0FZu75Chtuqg-22" value="4. 拉起三方SDK支付&lt;br&gt;(CP001,6,CNY)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="WOGHGQuo0FZu75Chtuqg-21" vertex="1" connectable="0">
           <mxGeometry x="-0.2381" y="3" relative="1" as="geometry">
             <mxPoint x="-16" y="3" as="offset" />
           </mxGeometry>
