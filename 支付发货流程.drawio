@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-19T11:00:45.776Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="nIm57oCusY0F6_g0UdKJ" version="13.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-19T11:03:06.649Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="-f3dE7bWzy8ubs6L7NZC" version="13.2.6" type="github">
   <diagram id="gCQPRdWzaqj0PH66_X0w" name="Page-1">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="712" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -354,13 +354,13 @@
         <mxCell id="WOGHGQuo0FZu75Chtuqg-67" value="&lt;span style=&quot;color: rgb(0 , 0 , 255)&quot;&gt;说明：&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 255)&quot;&gt;&lt;br style=&quot;color: rgb(0 , 0 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 255)&quot;&gt;1. 内购产品ID只有苹果，谷歌，华为海外渠道有，需要在他们的后台配置，否则支付不成功&lt;br&gt;2. 一个内购产品ID可能对应多个产品ID，产品的价格是相同的，但产品内容不同，通常是礼包产品。这样可以在苹果后台配置审核一次，游戏可以变换不同的礼包&lt;br&gt;3. 如果有内购产品ID的渠道，支付的时候，渠道是根据内购产品ID扣款的&lt;br&gt;4. 没有内购产品ID的渠道，为了统一，可以内购产品ID和产品ID相同&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;align=left;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="770" y="40" width="308" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="PXztPLHCLC5U4SdrTw1c-1" value="" style="endArrow=classic;html=1;exitX=1.01;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.291;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#B85450;fontColor=#B85450;labelBackgroundColor=none;" edge="1" parent="1" source="WOGHGQuo0FZu75Chtuqg-2" target="WOGHGQuo0FZu75Chtuqg-59">
+        <mxCell id="PXztPLHCLC5U4SdrTw1c-1" value="" style="endArrow=classic;html=1;exitX=1.01;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.291;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#B85450;fontColor=#B85450;labelBackgroundColor=none;" parent="1" source="WOGHGQuo0FZu75Chtuqg-2" target="WOGHGQuo0FZu75Chtuqg-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="722" as="sourcePoint" />
             <mxPoint x="750" y="672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PXztPLHCLC5U4SdrTw1c-2" value="15. 获取购买的商品数量&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#B85450;" vertex="1" connectable="0" parent="PXztPLHCLC5U4SdrTw1c-1">
+        <mxCell id="PXztPLHCLC5U4SdrTw1c-2" value="16. 获取购买的商品数量&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#B85450;" parent="PXztPLHCLC5U4SdrTw1c-1" vertex="1" connectable="0">
           <mxGeometry x="0.0648" relative="1" as="geometry">
             <mxPoint x="-86.82" y="-90.86" as="offset" />
           </mxGeometry>
